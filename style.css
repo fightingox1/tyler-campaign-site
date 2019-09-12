@@ -1,3 +1,5 @@
-body {
-background-color: blue;
+#content {
+  margin-top: 25px;
+  background-color: black;
+  color: white;
 }
